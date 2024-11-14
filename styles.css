@@ -1,0 +1,55 @@
+body {
+    font-family: 'Source Sans 3', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom, #FFD700,#00008B, #800080, #8B0000);
+}
+
+footer {
+    padding: 1em;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0 0 1em rgba(0, 0, 0, 0.3);
+    font-size: 1.25em;
+}
+
+footer img {
+    width: 10em;
+    height: 10em;
+    object-fit: cover;
+    border-radius: 1em;
+    box-shadow: 0 0 1em rgba(0, 0, 0, 0.3);
+}
+
+.artistas {
+    margin: 4em auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    height: 15em;
+}
+
+.artistas img {
+    width: 10em;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 1em;
+    box-shadow: 0 0 1em #fff;
+}
+
+main {
+    padding: 2em;
+}
+
+section h2 {
+    color: #fff;
+    text-shadow: 0 0 1em #fff;
+    font-size: 1.5em;
+}
+
+p, li {
+    color: #fff;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 1.2em;
+}
