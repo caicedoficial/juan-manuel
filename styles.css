@@ -5,7 +5,7 @@ body {
     background: linear-gradient(to bottom, #FFD700,#00008B, #800080, #8B0000);
 }
 
-footer {
+header {
     padding: 1em;
     text-align: center;
     color: #fff;
@@ -13,7 +13,7 @@ footer {
     font-size: 1.25em;
 }
 
-footer img {
+header img {
     width: 10em;
     height: 10em;
     object-fit: cover;
