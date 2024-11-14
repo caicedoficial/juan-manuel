@@ -54,6 +54,13 @@ p, li {
     font-size: 1.2em;
 }
 
+footer {
+    padding: 1em;
+    text-align: center;
+    color: #fff;
+    font-size: 1.2em;
+}
+
 footer img {
     width: 10em;
     height: 20em;
